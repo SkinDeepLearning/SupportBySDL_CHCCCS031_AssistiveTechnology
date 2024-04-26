@@ -1,0 +1,27 @@
+{
+  "version": "3.77.30587.0",
+  "course_id": "6ZGlK1Um5tQ_course_id",
+  "title": "CopyrightNotice_Support",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5v1ioSpRuH7",
+      "title": "CopyrightNotice",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
